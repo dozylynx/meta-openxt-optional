@@ -1,0 +1,13 @@
+diff --git a/src/core/core.pro b/src/core/core.pro
+index 5e94f5d..233b6a1 100644
+--- a/src/core/core.pro
++++ b/src/core/core.pro
+@@ -20,6 +20,7 @@
+ # Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301  USA
+ 
+ cache()
++QT -= gui
+ 
+ #-------------------------------------------------------------------------------
+ # Setup
+
